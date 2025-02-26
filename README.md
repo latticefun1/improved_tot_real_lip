@@ -2,4 +2,5 @@ A repo for our modified algorithm of [Module-LIP on GitLab (Inria)](https://gitl
 
 
 [1] https://gitlab.inria.fr/capsule/code-for-module-lip
+
 [2] https://eprint.iacr.org/2024/441
