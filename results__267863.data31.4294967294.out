@@ -1,0 +1,626 @@
+SageMath version 10.3, Release Date: 2024-03-19
+PARI stack size set to 8000000 bytes, maximum size set to 5368709120
+Running over a field of conductor 32  and degree 16
+
+Computing a basis of OK and its inverse...
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.92703 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.96421 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.39568 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0054581 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.73228 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.38498 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0040097 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.72012 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.31894 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0038826 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.64850 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.31783 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0046723 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.70674 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.47632 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0041213 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.81222 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.32031 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0047996 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.66883 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.36316 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0046175 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.77832 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.34589 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0039868 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.75955 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.31396 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0033205 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 0.65895 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 0.33660 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+Average attack time using the original algorithm for (32, 16) : 0.74497
+Average attack time using the modified algorithm for (32, 16) : 0.35737
+====================================================================================================
+PARI stack size set to 8000000 bytes, maximum size set to 5368709120
+Running over a field of conductor 64  and degree 32
+
+Computing a basis of OK and its inverse...
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.011284 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 5.0553 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.3390 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0087330 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.4538 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.2450 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0095866 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.5723 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.3226 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0099642 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.3478 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.2388 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0092461 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.4686 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.2648 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.012039 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.8083 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.5151 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.012641 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.6879 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.3076 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0085111 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.7598 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.4750 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.028682 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.7134 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.7075 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.0083752 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 4.7082 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 2.3824 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+Average attack time using the original algorithm for (64, 32) : 4.6576
+Average attack time using the modified algorithm for (64, 32) : 2.3798
+====================================================================================================
+PARI stack size set to 8000000 bytes, maximum size set to 5368709120
+Running over a field of conductor 128  and degree 64
+
+Computing a basis of OK and its inverse...
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.096720 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 59.885 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 30.589 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.079679 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 55.864 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 30.885 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.10856 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 58.671 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 31.360 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.086098 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 57.187 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 30.821 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.12137 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 56.939 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 31.045 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.15263 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 57.139 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 29.860 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.076801 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 56.650 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 31.551 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.085912 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 58.701 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 31.306 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.079159 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 58.165 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 31.217 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 0.091510 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 56.118 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 31.908 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+Average attack time using the original algorithm for (128, 64) : 57.532
+Average attack time using the modified algorithm for (128, 64) : 31.054
+====================================================================================================
+PARI stack size set to 64000000 bytes, maximum size set to 5368709120
+Running over a field of conductor 256  and degree 128
+
+Computing a basis of OK and its inverse...
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 4.0771 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 1850.6 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 960.07 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 3.5775 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 1851.9 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 1004.2 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 2.3367 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 1829.8 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 1036.7 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 3.4774 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 1868.8 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 1006.5 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+
+Creating the challenge instance...
+...done creating the challence instance
+(this took 1.9044 seconds)
+
+
+Starting the attack using the original algorithm...
+...the attack is over
+(this took 1732.2 seconds)
+
+and the original basis is part of it (attack successful!)
+
+Starting the attack using our modified algorithm...
+...the attack is over
+(this took 997.55 seconds)
+
+and using our algorithm, the original basis is part of it (attack successful!)
+Average attack time using the original algorithm for (256, 128) : 1826.6
+Average attack time using the modified algorithm for (256, 128) : 1001.0
+====================================================================================================
+[0.74497, 4.6576, 57.532, 1826.6]
+[0.35737, 2.3798, 31.054, 1001.0]
